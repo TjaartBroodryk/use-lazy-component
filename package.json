@@ -1,6 +1,6 @@
 {
   "name": "use-lazy-component",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A React hook to lazily load a component",
   "main": "build/index.js",
   "types": "build/index.d.ts",
