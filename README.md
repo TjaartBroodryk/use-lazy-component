@@ -1,5 +1,5 @@
-[![npm](https://img.shields.io/badge/npm-use--lazy--component-red.svg?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/react-web-view-pager)
-[![npm](https://img.shields.io/npm/v/use-lazy-component.svg?style=for-the-badge&label)](https://www.npmjs.com/react-web-view-pager)
+[![npm](https://img.shields.io/badge/npm-use--lazy--component-red.svg?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/use-lazy-component)
+[![npm](https://img.shields.io/npm/v/use-lazy-component.svg?style=for-the-badge&label)](https://www.npmjs.com/use-lazy-component)
 
 Simple react hook to lazily load a component
 
